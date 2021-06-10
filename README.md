@@ -1,4 +1,4 @@
-My first commercial project on #AWS is launched! 
+My first commercial project on AWS is launched! 
 I am so happy to see this. A small step for humanity but a big one for me.
 
 "Silben Wörterbuch" is a Syllable Dictionary of German.
